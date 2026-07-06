@@ -358,8 +358,6 @@ whatsnew/3.14.rst:71:<translated>:1: WARNING: Inline interpreted text or phrase 
 whatsnew/3.14.rst:74:<translated>:1: WARNING: Inline interpreted text or phrase reference start-string without end-string. [docutils]
 whatsnew/3.14.rst:74:<translated>:1: WARNING: Inline interpreted text or phrase reference start-string without end-string. [docutils]
 whatsnew/3.14.rst:80:<translated>:1: WARNING: Inline interpreted text or phrase reference start-string without end-string. [docutils]
-whatsnew/3.14.rst:86:<translated>:1: WARNING: Inline interpreted text or phrase reference start-string without end-string. [docutils]
-whatsnew/3.14.rst:86:<translated>:1: WARNING: Inline interpreted text or phrase reference start-string without end-string. [docutils]
 whatsnew/3.14.rst:89:<translated>:1: WARNING: Inline interpreted text or phrase reference start-string without end-string. [docutils]
 whatsnew/3.14.rst:92:<translated>:1: WARNING: Inline interpreted text or phrase reference start-string without end-string. [docutils]
 whatsnew/3.14.rst:95:<translated>:1: WARNING: Inline interpreted text or phrase reference start-string without end-string. [docutils]
@@ -380,7 +378,6 @@ whatsnew/3.14.rst:11:<translated>:1: WARNING: Inline literal start-string withou
 deprecations/pending-removal-in-3.20.rst:24: WARNING: inconsistent term references in translated message. original: [':mod:`logging`'], translated: [':mod:`logging`(``__date__``'] [i18n.inconsistent_references]
 deprecations/c-api-pending-removal-in-3.15.rst:36: WARNING: inconsistent term references in translated message. original: [':c:func:`PyConfig_Get("executable") <PyConfig_Get>`', ':data:`sys.executable`'], translated: [':c:func:`PyConfig_Get("executable") <PyConfig_Get> ` ( :data:`sys.executable`'] [i18n.inconsistent_references]
 deprecations/c-api-pending-removal-in-3.15.rst:39: WARNING: inconsistent term references in translated message. original: [':c:func:`PyConfig_Get("executable") <PyConfig_Get>`', ':data:`sys.executable`'], translated: [':c:func:`PyConfig Get("executable") <PyConfig_Get> ` (:data:`sys.executable`'] [i18n.inconsistent_references]
-deprecations/c-api-pending-removal-in-3.15.rst:68: WARNING: inconsistent term references in translated message. original: [':c:var:`Py_DebugFlag`', ':c:member:`PyConfig.parser_debug`', ':c:func:`PyConfig_Get("parser_debug") <PyConfig_Get>`'], translated: [':c:var:`Py_DebugFlag`', ':c:member:`PyConfig.parser_debug`', ':c:func:`PyConfig_Get("parser_debug") <PyConfig_Get> Zamiast.`'] [i18n.inconsistent_references]
 whatsnew/3.14.rst:71:<translated>:1: WARNING: Inline interpreted text or phrase reference start-string without end-string. [docutils]
 deprecations/c-api-pending-removal-in-3.15.rst:71: WARNING: inconsistent term references in translated message. original: [':c:var:`Py_VerboseFlag`', ':c:member:`PyConfig.verbose`', ':c:func:`PyConfig_Get("verbose") <PyConfig_Get>`'], translated: [':c:var:`Py_VerboseFlag`', ':c:member:`PyConfig.verbose`'] [i18n.inconsistent_references]
 whatsnew/3.14.rst:74:<translated>:1: WARNING: Inline interpreted text or phrase reference start-string without end-string. [docutils]
@@ -389,9 +386,6 @@ deprecations/c-api-pending-removal-in-3.15.rst:74: WARNING: inconsistent term re
 deprecations/c-api-pending-removal-in-3.15.rst:77: WARNING: inconsistent term references in translated message. original: [':c:var:`Py_InteractiveFlag`', ':c:member:`PyConfig.interactive`', ':c:func:`PyConfig_Get("interactive") <PyConfig_Get>`'], translated: [':c:var:`Py_InteractiveFlag`', ':c:member:`PyConfig.interactive`', ':c:func:`PyConfig_Get("interactive")`'] [i18n.inconsistent_references]
 whatsnew/3.14.rst:80:<translated>:1: WARNING: Inline interpreted text or phrase reference start-string without end-string. [docutils]
 deprecations/c-api-pending-removal-in-3.15.rst:80: WARNING: inconsistent term references in translated message. original: [':c:var:`Py_InspectFlag`', ':c:member:`PyConfig.inspect`', ':c:func:`PyConfig_Get("inspect") <PyConfig_Get>`'], translated: [':c:var:`Py_InspectFlag`'] [i18n.inconsistent_references]
-whatsnew/3.14.rst:86:<translated>:1: WARNING: Inline interpreted text or phrase reference start-string without end-string. [docutils]
-whatsnew/3.14.rst:86:<translated>:1: WARNING: Inline interpreted text or phrase reference start-string without end-string. [docutils]
-deprecations/c-api-pending-removal-in-3.15.rst:86: WARNING: inconsistent term references in translated message. original: [':c:var:`Py_NoSiteFlag`', ':c:member:`PyConfig.site_import`', ':c:func:`PyConfig_Get("site_import") <PyConfig_Get>`'], translated: [':c:var:`Py_NoSiteFlag`'] [i18n.inconsistent_references]
 whatsnew/3.14.rst:89:<translated>:1: WARNING: Inline interpreted text or phrase reference start-string without end-string. [docutils]
 deprecations/c-api-pending-removal-in-3.15.rst:89: WARNING: inconsistent term references in translated message. original: [':c:var:`Py_BytesWarningFlag`', ':c:member:`PyConfig.bytes_warning`', ':c:func:`PyConfig_Get("bytes_warning") <PyConfig_Get>`'], translated: [':c:var:`Py_BytesWarningFlag`', ':c:member:`PyConfig.bytes_warning`'] [i18n.inconsistent_references]
 whatsnew/3.14.rst:92:<translated>:1: WARNING: Inline interpreted text or phrase reference start-string without end-string. [docutils]
@@ -566,10 +560,6 @@ whatsnew/3.14.rst:39:<translated>:1: WARNING: Unparseable C cross-reference: 'Py
 Invalid C declaration: Expected end of definition. [error at 9]
   PyConfig Get("executable") <PyConfig_Get> ` (:data:`sys.executable
   ---------^
-whatsnew/3.14.rst:68:<translated>:1: WARNING: Unparseable C cross-reference: 'PyConfig_Get("parser_debug") <PyConfig_Get> Zamiast.'
-Invalid C declaration: Expected end of definition. [error at 12]
-  PyConfig_Get("parser_debug") <PyConfig_Get> Zamiast.
-  ------------^
 whatsnew/3.14.rst:77:<translated>:1: WARNING: Unparseable C cross-reference: 'PyConfig_Get("interactive")'
 Invalid C declaration: Expected end of definition. [error at 12]
   PyConfig_Get("interactive")
