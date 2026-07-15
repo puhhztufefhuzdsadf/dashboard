@@ -12,7 +12,7 @@ tutorial/inputoutput.rst:546: WARNING: inconsistent term references in translate
 using/configure.rst:108: WARNING: inconsistent term references in translated message. original: [':mod:`zlib`', ':mod:`gzip`', ':mod:`ensurepip`'], translated: [':mod:`zlib`'] [i18n.inconsistent_references]
 using/configure.rst:1184: WARNING: inconsistent references in translated message. original: ['`recommended by OpenSSF`_'], translated: ['`OpenSSF`_'] [i18n.inconsistent_references]
 using/configure.rst:1201: WARNING: inconsistent references in translated message. original: ['`recommended by OpenSSF`_'], translated: [] [i18n.inconsistent_references]
-using/windows.rst:2016: WARNING: inconsistent term references in translated message. original: [':envvar:`PATH`', ':envvar:`PATH`', ':envvar:`PATH`'], translated: [':envvar:`PATH`', ':envvar:`PYLAUNCHER_NO_SEARCH_PATH`', ':envvar:`PATH`'] [i18n.inconsistent_references]
+using/windows.rst:2018: WARNING: inconsistent term references in translated message. original: [':envvar:`PATH`', ':envvar:`PATH`', ':envvar:`PATH`'], translated: [':envvar:`PATH`', ':envvar:`PYLAUNCHER_NO_SEARCH_PATH`', ':envvar:`PATH`'] [i18n.inconsistent_references]
 library/stdtypes.rst:1029:<translated>:1: WARNING: Inline emphasis start-string without end-string. [docutils]
 library/stdtypes.rst:1242:<translated>:1: WARNING: Inline emphasis start-string without end-string. [docutils]
 library/stdtypes.rst:1029:<translated>:1: WARNING: Inline emphasis start-string without end-string. [docutils]
