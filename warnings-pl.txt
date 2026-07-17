@@ -52,7 +52,6 @@ deprecations/c-api-pending-removal-in-3.15.rst:4: WARNING: inconsistent term ref
 deprecations/c-api-pending-removal-in-3.15.rst:12: WARNING: inconsistent term references in translated message. original: [':c:func:`PyCodec_Decode`', ':class:`str`', ':class:`bytes`'], translated: [':c:func:`PyCodec_Decode`', ':class:`bytes`'] [i18n.inconsistent_references]
 deprecations/c-api-pending-removal-in-3.15.rst:17: WARNING: inconsistent term references in translated message. original: [':c:func:`PyCodec_Encode`', ':class:`bytes`', ':class:`str`'], translated: [':c:func:`PyCodec_Encode`', ':class:`str`'] [i18n.inconsistent_references]
 deprecations/c-api-pending-removal-in-3.15.rst:25: WARNING: inconsistent term references in translated message. original: [':c:func:`PyConfig_Get("base_prefix") <PyConfig_Get>`', ':data:`sys.base_prefix`', ':c:func:`PyConfig_Get("prefix")\n<PyConfig_Get>`', ':data:`sys.prefix`', ':ref:`virtual environments\n<venv-def>`'], translated: [':c:func:`PyConfig_Get("base_prefix")  \xa0\'<PyConfig_Get>`', ':data:`sys.base_prefix`', ':c:func:`Py Config Pobierz("prefix") <PyConfig_Get> ` (:data:`sys.prefix`'] [i18n.inconsistent_references]
-deprecations/c-api-pending-removal-in-3.15.rst:30: WARNING: inconsistent term references in translated message. original: [':c:func:`PyConfig_Get("base_exec_prefix") <PyConfig_Get>`', ':data:`sys.base_exec_prefix`', ':c:func:`PyConfig_Get("exec_prefix") <PyConfig_Get>`', ':data:`sys.exec_prefix`', ':ref:`virtual environments <venv-def>`'], translated: [':c:func:`PyConfig_Get("base_exec_prefix")  \'<PyConfig_Get>`', ':data:`sys.base_exec_prefix`', ':c:func:`PyConfig_Get("exec_prefix") <PyConfig_Get> ` ( :data:`sys.exec_prefix`'] [i18n.inconsistent_references]
 deprecations/c-api-pending-removal-in-3.15.rst:42:<translated>:1: WARNING: Inline interpreted text or phrase reference start-string without end-string. [docutils]
 deprecations/c-api-pending-removal-in-3.15.rst:42: WARNING: inconsistent term references in translated message. original: [':c:func:`PyConfig_Get("home") <PyConfig_Get>`', ':envvar:`PYTHONHOME`'], translated: [':c:func:`PyConfig_Get("home") <PyConfig_Get>`'] [i18n.inconsistent_references]
 deprecations/c-api-pending-removal-in-3.15.rst:46:<translated>:1: WARNING: Inline interpreted text or phrase reference start-string without end-string. [docutils]
@@ -427,10 +426,6 @@ deprecations/c-api-pending-removal-in-3.15.rst:25:<translated>:1: WARNING: Unpar
 Invalid C declaration: Expected end of definition. [error at 3]
   Py Config Pobierz("prefix") <PyConfig_Get> ` (:data:`sys.prefix
   ---^
-deprecations/c-api-pending-removal-in-3.15.rst:30:<translated>:1: WARNING: Unparseable C cross-reference: 'PyConfig_Get("exec_prefix") <PyConfig_Get> ` ( :data:`sys.exec_prefix'
-Invalid C declaration: Expected end of definition. [error at 12]
-  PyConfig_Get("exec_prefix") <PyConfig_Get> ` ( :data:`sys.exec_prefix
-  ------------^
 deprecations/c-api-pending-removal-in-3.15.rst:63:<translated>:1: WARNING: Unparseable C cross-reference: 'Py_InitializeFromConfig`API należy używać z :c:type:`PyConfig'
 Invalid C declaration: Expected end of definition. [error at 23]
   Py_InitializeFromConfig`API należy używać z :c:type:`PyConfig
