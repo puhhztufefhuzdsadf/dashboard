@@ -53,8 +53,8 @@
     "branch": "3.15",
     "core_completion": 100.0,
     "completion": 5.637810003492997,
-    "core_change": 85.50207721147027,
-    "change": 4.919604727940596,
+    "core_change": 84.13010436721046,
+    "change": 4.688728887086052,
     "built": false,
     "translated_name": "Deutsch",
     "contribution_link": "https://github.com/sba72/python-docs-de"
