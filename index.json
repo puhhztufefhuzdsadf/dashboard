@@ -112,9 +112,9 @@
     "repository": "python/python-docs-id",
     "branch": "3.14",
     "core_completion": 47.368527713040834,
-    "completion": 2.949047313209163,
+    "completion": 2.949329006524017,
     "core_change": 0.0,
-    "change": 0.0,
+    "change": 0.00028169331485417004,
     "built": true,
     "translated_name": "Indonesia",
     "contribution_link": "https://github.com/python/python-docs-id/blob/3.14/README.md#berkontribusi-untuk-menerjemahkan"
