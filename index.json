@@ -25,8 +25,8 @@
     "completion": 0.011540219635711857,
     "core_change": 0.0,
     "change": 0.0,
-    "built": true,
-    "translated_name": "\u09ac\u09be\u0982\u09b2\u09be",
+    "built": false,
+    "translated_name": "\u09ac\u09be\u0982\u09b2\u09be (\u09ad\u09be\u09b0\u09a4)",
     "contribution_link": "https://github.com/python/python-docs-bn-in"
   },
   {
@@ -53,8 +53,8 @@
     "branch": "3.15",
     "core_completion": 99.57110906459677,
     "completion": 4.342500208286891,
-    "core_change": 11.453756084725697,
-    "change": 1.3212144139032063,
+    "core_change": 0.9077752927246507,
+    "change": 1.0436299113485958,
     "built": false,
     "translated_name": "Deutsch",
     "contribution_link": "https://github.com/sba72/python-docs-de"
@@ -292,9 +292,9 @@
     "repository": "python/python-docs-zh-cn",
     "branch": "3.15",
     "core_completion": 99.17116168925142,
-    "completion": 87.91102884717147,
+    "completion": 87.91192954724059,
     "core_change": 0.41047230627549425,
-    "change": 0.24909986286841956,
+    "change": 0.2500005629375437,
     "built": true,
     "translated_name": "\u7b80\u4f53\u4e2d\u6587",
     "contribution_link": "https://explore.transifex.com/python-doc/python-newest/"
