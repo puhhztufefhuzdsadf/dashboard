@@ -52,9 +52,9 @@
     "repository": "sba72/python-docs-de",
     "branch": "3.15",
     "core_completion": 100.0,
-    "completion": 10.794461039030429,
+    "completion": 11.469649155269645,
     "core_change": 0.8472569398763312,
-    "change": 7.486348601789741,
+    "change": 8.161536718028957,
     "built": true,
     "translated_name": "Deutsch",
     "contribution_link": "https://github.com/sba72/python-docs-de"
@@ -232,9 +232,9 @@
     "repository": "python/python-docs-pt-br",
     "branch": "3.15",
     "core_completion": 100.0,
-    "completion": 56.666139864332465,
+    "completion": 56.723338224533656,
     "core_change": 0.8472569398763312,
-    "change": 4.780140639350563,
+    "change": 4.826428004587122,
     "built": true,
     "translated_name": "Portugu\u00eas brasileiro",
     "contribution_link": "https://python.org.br/traducao/"
@@ -279,7 +279,7 @@
     "core_completion": 100.0,
     "completion": 4.653370625689319,
     "core_change": 0.8472569398763312,
-    "change": 0.8997071466454596,
+    "change": 0.8749043178856515,
     "built": true,
     "translated_name": "\u0420\u0443\u0441\u0441\u043a\u0438\u0439",
     "contribution_link": "https://explore.transifex.com/python-doc/python-newest/"
